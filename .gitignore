@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow only these specific public portfolio files
+!.gitignore
+!README.md
+!LICENSE.md
+!Analyse_Financiere_BH_INVEST.pdf
+!Dataset_Benchmark_Intermediaires_Bourse_CMF_2025.xlsx
